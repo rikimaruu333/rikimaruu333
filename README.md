@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikimaruu333&label=Profile%20views&color=0e75b6&style=flat" alt="rikimaruu333" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikimaruu333" alt="rikimaruu333" /></a> </p>
-
 - 🔭 I’m currently working on [a freelancing website](https://github.com/rikimaruu333/ComputerWizard)
 
 - 🌱 I’m currently learning **react, laravel, and c#**
