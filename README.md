@@ -56,12 +56,6 @@
 ### 📊 GitHub Stats
 <div align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rikimaruu333&show_icons=true&locale=en&theme=radical&hide_border=false&border_radius=10" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="margin: 20px;" 
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=rikimaruu333&layout=compact&locale=en&theme=radical&hide_border=false&border_radius=10" 
     alt="Top Languages" 
     height="200" 
