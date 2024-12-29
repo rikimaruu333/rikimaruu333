@@ -1,28 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ricky Monsales</h1>
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<div align="left">
+  <h1>Konnichiyawawerds, I'm Ricky Monsales!</h1>
+  <p>
+    IT Enthusiast&nbsp&nbsp|&nbsp&nbsp🌐 Frontend Developer&nbsp&nbsp|&nbsp&nbspGamer <br>
+    Based in Bogo City, Cebu, I specialize in crafting beautiful, user-centric web applications with a focus on clean design and robust functionality.
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=rikimaruu333&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikimaruu333&label=Profile%20views&color=0e75b6&style=flat" alt="rikimaruu333" /> </p>
+---
 
-- 🔭 I’m currently working on [a freelancing website](https://github.com/rikimaruu333/ComputerWizard)
+### 🚀 About Me
+- 🔭 Currently working on [a freelancing website](https://github.com/rikimaruu333/ComputerWizard)  
+- 🌱 Learning **React, Laravel, and C#**  
+- 💬 Ask me about **PHP, JavaScript, CSS, and React**  
+- 📫 Reach me at **crmchs.monsales.ricky@gmail.com**  
 
-- 🌱 I’m currently learning **react, laravel, and c#**
+---
 
-- 💬 Ask me about **php, js, css, and react**
+### 🌐 Connect With Me
+<div align="left">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/wwwricksxm" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/wricks.m" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+  </a>
+  <a href="https://facebook.com/ricky.monsales" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
+  </a>
+</div>
 
-- 📫 How to reach me **crmchs.monsales.ricky@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wwwricksxm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wwwricksxm" height="30" width="40" /></a>
-<a href="https://fb.com/ricky monsales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ricky monsales" height="30" width="40" /></a>
-<a href="https://instagram.com/wricks.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wricks.m" height="30" width="40" /></a>
-</p>
+### 🛠️ Languages and Tools
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikimaruu333&show_icons=true&locale=en&layout=compact" alt="rikimaruu333" /></p>
+### 📊 GitHub Stats
+<div align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rikimaruu333&show_icons=true&locale=en&theme=radical&hide_border=false&border_radius=10" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="margin: 20px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rikimaruu333&layout=compact&locale=en&theme=radical&hide_border=false&border_radius=10" 
+    alt="Top Languages" 
+    height="200" 
+    style="margin: 40px;" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rikimaruu333&locale=en&theme=radical&hide_border=false&border_radius=10" 
+    alt="Streak Stats" 
+    height="200" 
+    style="margin: 20px;" 
+  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikimaruu333&show_icons=true&locale=en" alt="rikimaruu333" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikimaruu333&" alt="rikimaruu333" /></p>
+### Fun Fact
+When I'm not coding, I'm probably gaming — creativity flows both in virtual worlds and in development! 🎮 
