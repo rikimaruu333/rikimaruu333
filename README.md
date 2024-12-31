@@ -72,4 +72,4 @@
 ---
 
 ### Fun Fact
-When I'm not coding, I'm probably gaming — creativity flows both in virtual worlds and in development! 🎮 
+When I'm not coding, I'm probably gaming — creativity flows both in virtual worlds and in development!🎮 
