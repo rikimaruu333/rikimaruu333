@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Konnichiyawa, I'm Ricky Monsales! </h1>
+  <h1>Konnichiyawa, I'm Ricky Monsales!     </h1>
   <p>
     IT Enthusiast&nbsp&nbsp|&nbsp&nbsp🌐 Frontend Developer&nbsp&nbsp|&nbsp&nbspGamer <br>
     Based in Bogo City, Cebu, I specialize in crafting beautiful, user-centric web applications with a focus on clean design and robust functionality.
