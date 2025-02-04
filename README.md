@@ -64,12 +64,6 @@
     height="200" 
     style="margin: 40px;" 
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rikimaruu333&locale=en&theme=radical&hide_border=false&border_radius=10" 
-    alt="Streak Stats" 
-    height="200" 
-    style="margin: 20px;" 
-  />
 </div>
 
 ---
