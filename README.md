@@ -1,3 +1,6 @@
+![Web Developer](https://github.com/user-attachments/assets/fe5feafa-5dfe-4cca-a1dd-976e0052118d)
+
+
 <div align="left">
   <h1>Konnichiyawa, I'm Ricky Monsales!</h1>
   <p>
