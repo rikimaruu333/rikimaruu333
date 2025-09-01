@@ -22,7 +22,7 @@
 
 ### 🌐 Connect With Me
 <div align="left">
-  <a href="[https://linkedin.com/in/monsales-ricky-n-367975343/](https://www.linkedin.com/in/ricky-monsales-367975343/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ricky-monsales-367975343/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/wwwricksxm" target="_blank">
