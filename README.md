@@ -31,7 +31,7 @@
   <a href="https://instagram.com/wricks.m" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
   </a>
-  <a href="https://facebook.com/ricky.monsales" target="_blank">
+  <a href="https://facebook.com/ricky.monsales.12" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
   </a>
 </div>
