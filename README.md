@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on [a freelancing website](https://github.com/rikimaruu333/ComputerWizard)  
+- 🔭 Currently working on startup projects.  
 - 🌱 Learning **React, Laravel, and C#**  
 - 💬 Ask me about **PHP, JavaScript, CSS, and React**  
 - 📫 Reach me at **crmchs.monsales.ricky@gmail.com**  
@@ -34,24 +34,6 @@
   <a href="https://facebook.com/ricky.monsales" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
   </a>
-</div>
-
----
-
-### 🛠️ Languages and Tools
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" />
 </div>
 
 ---
