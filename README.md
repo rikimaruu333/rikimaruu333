@@ -14,8 +14,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on startup projects.  
-- 🌱 Learning **React, Laravel, and C#**  
-- 💬 Ask me about **PHP, JavaScript, CSS, and React**  
+- 🌱 Learning **NEXT, Firebase, and React Native**  
 - 📫 Reach me at **crmchs.monsales.ricky@gmail.com**  
 
 ---
