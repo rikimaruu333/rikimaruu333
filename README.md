@@ -15,8 +15,8 @@
 ### 🚀 About Me
 - 🔭 Currently working on startup projects.  
 - 🌱 Learning **NEXT, Firebase, and React Native**  
-- 📫 Reach me at **crmchs.monsales.ricky@gmail.com**  
-
+- 📫 Reach me at **crmchs.monsales.ricky@gmail.com**
+  
 ---
 
 ### 🌐 Connect With Me
