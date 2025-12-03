@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on startup projects.  
-- 🌱 Learning **NEXT, Firebase, and React Native**  
+- 🌱 Learning **NEXT, TypeScript, and React Native**  
 - 📫 Reach me at **crmchs.monsales.ricky@gmail.com**
   
 ---
@@ -33,18 +33,6 @@
   <a href="https://facebook.com/ricky.monsales.12" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
   </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rikimaruu333&layout=compact&locale=en&theme=radical&hide_border=false&border_radius=10" 
-    alt="Top Languages" 
-    height="200" 
-    style="margin: 40px;" 
-  />
 </div>
 
 ---
