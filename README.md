@@ -5,7 +5,8 @@
   <h1>Hello, I'm Ricky Monsales!</h1>
   <p>
     FullStack Developer&nbsp&nbsp|&nbsp&nbspGamer <br>
-    Based in Bogo City, Cebu, I specialize in crafting beautiful, user-centric web applications with a focus on clean design and robust functionality.
+    Based in Bogo City, Cebu, Philippines <br> 
+    I specialize in crafting beautiful, user-centric web applications with a focus on clean design and robust functionality.
   </p>
   <img src="https://komarev.com/ghpvc/?username=rikimaruu333&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
