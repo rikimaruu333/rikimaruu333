@@ -4,7 +4,7 @@
 <div align="left">
   <h1>Hello, I'm Ricky Monsales!</h1>
   <p>
-    FullStack Developer&nbsp&nbsp|&nbsp&nbspGamer <br>
+    FullStack Developer<br>
     Based in Bogo City, Cebu, Philippines <br> 
     I specialize in crafting beautiful, user-centric web applications with a focus on clean design and robust functionality.
   </p>
