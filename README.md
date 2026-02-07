@@ -3,6 +3,7 @@
 
 <div align="left">
   <h1>Hello, I'm Ricky Monsales!</h1>
+  
   <p>
     Full Stack Developer<br>
     Based in Bogo City, Cebu, Philippines <br> 
