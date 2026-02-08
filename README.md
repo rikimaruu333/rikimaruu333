@@ -2,7 +2,7 @@
 
 
 <div align="left">
-  <h1>Hello, I'm Ricky Monsales!</h1>
+  <h1>Hi, I'm Ricky Monsales!</h1>
   
   <p>
     Full Stack Developer<br>
