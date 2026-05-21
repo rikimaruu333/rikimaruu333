@@ -1,7 +1,7 @@
 ![Web Developer](https://github.com/user-attachments/assets/fe5feafa-5dfe-4cca-a1dd-976e0052118d)
 
 
-<div align="left">
+<div align="left">  
   <h1>Hello, I'm Ricky Monsales!</h1>  
      
   <p> 
