@@ -13,15 +13,6 @@
   
 </div>
 
----
-
-### 🚀 About Me
-- 🔭 Currently working on startup projects.  
-- 🌱 Learning **NEXT, TypeScript, and React Native**  
-- 📫 Reach me at **crmchs.monsales.ricky@gmail.com**
-  
----
-
 ### 🌐 Connect With Me
 <div align="left">
   <a href="https://www.linkedin.com/in/ricky-monsales-367975343/" target="_blank">
