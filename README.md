@@ -1,14 +1,5 @@
 ![Web Developer](https://github.com/user-attachments/assets/fe5feafa-5dfe-4cca-a1dd-976e0052118d)
-<div align="left">  
-  <!-- <h1>Hello, I'm Ricky Monsales!</h1>   -->
-  <p> 
-    Full Stack Developer<br>
-    Based in Bogo City, Cebu, Philippines <br> 
-    I specialize in crafting beautiful, user-centric web applications with a focus on clean design and robust functionality.
-  </p>
-  <!-- <img src="https://komarev.com/ghpvc/?username=rikimaruu333&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> -->
 
-</div>
 
 ---
 
@@ -33,8 +24,8 @@ off-duty:  gaming 🎮
 
 ### 🗺️ Quest log
 
-- 🛠️ **Currently building:** _your current project here_
-- 📚 **Leveling up:** _what you're learning right now_
+- 🛠️ **Currently building:** Start-ups
+- 📚 **Leveling up:** Next.js, Supabase
 - 🤝 **Open to:** collaborations, freelance work, and good co-op teammates
 
 ### 📊 Player stats
